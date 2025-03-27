@@ -318,7 +318,7 @@ do
 done
 OPTIND=1
 
-share=$(dist_dir App-Greple-xlate)
+share=$(dist_dir App-xlate)
 
 declare -a pattern
 
