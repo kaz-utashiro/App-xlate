@@ -1,7 +1,7 @@
 
 # NAME
 
-App::xlate - It's new $module
+App::xlate - xlate script dummy module
 
 # SYNOPSIS
 
@@ -9,15 +9,15 @@ App::xlate - It's new $module
 
 # DESCRIPTION
 
-App::xlate is ...
+Document is included in `xlate` script file.
 
 # LICENSE
 
-Copyright (C) Kazumasa Utashiro.
+Copyright ©︎ Kazumasa Utashiro.
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself.
 
 # AUTHOR
 
-Kazumasa Utashiro <kaz@utashiro.com>
+Kazumasa Utashiro
