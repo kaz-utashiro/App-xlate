@@ -5,6 +5,9 @@ use warnings;
 
 our $VERSION = "0.9908";
 
+use Exporter 'import';
+our @EXPORT_OK = qw($VERSION);
+
 1;
 
 __END__
