@@ -3,7 +3,7 @@ package App::xlate;
 use strict;
 use warnings;
 
-our $VERSION = "0.9908";
+our $VERSION = "0.9909";
 
 use Exporter 'import';
 our @EXPORT_OK = qw($VERSION);

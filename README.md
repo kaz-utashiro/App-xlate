@@ -1,4 +1,4 @@
-
+[![Actions Status](https://github.com/kaz-utashiro/App-xlate/actions/workflows/test.yml/badge.svg)](https://github.com/kaz-utashiro/App-xlate/actions) [![MetaCPAN Release](https://badge.fury.io/pl/App-xlate.svg)](https://metacpan.org/release/App-xlate)
 # NAME
 
     xlate - TRANSlate CLI front-end for App::Greple::xlate module
@@ -56,7 +56,7 @@
 
 # VERSION
 
-    Version 0.9908
+    Version 0.9909
 
 # DESCRIPTION
 
